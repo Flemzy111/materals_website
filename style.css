@@ -87,7 +87,7 @@
     width: 20%;
     height: 15%;
     padding: 2px 2px 2px 2px;
-    
+
 justify-content: space-between;
 }
 
@@ -101,6 +101,7 @@ justify-content: space-between;
 
 .container-2 {
     grid-column: 1/5;
+    
     margin-left: 5px;
 
 }
